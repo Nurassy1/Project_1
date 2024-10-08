@@ -1,0 +1,39 @@
+.Home .header{
+    text-align: center;
+    background-color: #050B0D;padding: 20px 0;
+}
+
+.Home h1 {
+    color: white;
+}
+
+.Home .container{
+    max-width: 2000px;
+    margin: 0 auto;
+}
+
+.Home a{
+    padding: 0 20px 0 0;
+    color: white;
+}
+
+.Home body{
+    background-color: antiquewhite;
+
+    
+}
+
+.Home h2{
+    color: rgb(0, 0, 0);
+}
+
+.About .header h1{
+    border: 3px solid black;
+}
+
+.About {
+    background-color: antiquewhite;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
